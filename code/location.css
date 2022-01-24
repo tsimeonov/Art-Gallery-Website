@@ -386,5 +386,6 @@ footer {
 
   img[src="./assets/desktop/image-map.png"] {
     display: block;
+    width: 100%;
   }
 }
